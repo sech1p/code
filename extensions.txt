@@ -1,6 +1,7 @@
 2guys1account.quackrack-cursor
 actboy168.lua-debug
 ahmadawais.shades-of-purple
+ajhawkings.nodejs-extensions
 alefragnani.project-manager
 anseki.vscode-color
 bierner.color-info
