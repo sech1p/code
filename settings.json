@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Abyss",
+    "codestats.username": "sech1p_",
+    "codestats.apikey": "[REDACTED]",
+    "tabnine.experimentalAutoImports": true,
+    "workbench.editor.wrapTabs": true,
+    "editor.fontFamily": "'SpaceMono Nerd Font'",
+    "security.workspace.trust.untrustedFiles": "open",
+    "svelte.enable-ts-plugin": true,
+    "json.schemas": [
+
+    ]
+}
