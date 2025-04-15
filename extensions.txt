@@ -15,8 +15,6 @@ dart-code.flutter
 davidanson.vscode-markdownlint
 dbaeumer.vscode-eslint
 discretegames.f5anything
-donjayamanne.githistory
-eamodio.gitlens
 editorconfig.editorconfig
 equinusocio.vsc-material-theme-icons
 esbenp.prettier-vscode
