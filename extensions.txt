@@ -28,13 +28,11 @@ kruemelkatze.vscode-dashboard
 lamartire.git-indicators
 lannonbr.vscode-js-annotations
 leonardssh.vscord
-llvm-vs-code-extensions.vscode-clangd
 lokalise.i18n-ally
 mesonbuild.mesonbuild
 mkloubert.vscode-kanban
 moozzyk.arduino
 mrmomo.meson-build
-ms-dotnettools.csdevkit
 ms-python.debugpy
 ms-python.python
 ms-python.vscode-pylance
@@ -56,7 +54,6 @@ shan.code-settings-sync
 sumneko.lua
 tabnine.tabnine-vscode
 tonybaloney.vscode-pets
-twxs.cmake
 usernamehw.errorlens
 wakatime.vscode-wakatime
 wallabyjs.wallaby-vscode
