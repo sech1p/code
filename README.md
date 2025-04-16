@@ -1,7 +1,5 @@
 # 🖥️ code
 
-<p align="center">
-    <img src="./screenshot.png" alt="Screenshot of my VS Code instance" />
+![Screenshot of my VS Code instance](screenshot.png)
 
-    My Visual Studio Code configuration
-</p>
+My Visual Studio Code configuration
