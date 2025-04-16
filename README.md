@@ -29,3 +29,5 @@ Next, run PowerShell again, and type:
 ```powershell
 PS C:\> .\install.ps1
 ```
+
+For `settings.json` installation, just open settings file from Command Palette in VS Code and copy-paste my file. 
