@@ -22,6 +22,7 @@ esbenp.prettier-vscode
 formulahendry.auto-rename-tag
 github.vscode-pull-request-github
 gruntfuggly.todo-tree
+invillia.code-like-a-rainbow
 johnpapa.vscode-peacock
 kruemelkatze.vscode-dashboard
 lamartire.git-indicators
