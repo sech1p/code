@@ -17,6 +17,8 @@ Just type in terminal:
 $ ./install.sh
 ```
 
+⚠️ Notice: Untested on Linux, because I don't have it anymore. Although, it's should works anywhere you can run VS Code. ¯\_(ツ)_/¯
+
 ### 🪟 Windows
 
 First, in administrator mode in PowerShell type:
