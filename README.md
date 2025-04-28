@@ -1,8 +1,9 @@
 # 🖥️ code
 
 ![Screenshot of my VS Code instance](screenshot.png)
+![Screenshot of my VS Code instance on Mac](screenshot_mac.png)
 
-My Visual Studio Code configuration
+My Visual Studio Code configuration on different platforms (Windows and macOS, in this case)
 
 ## 💾 Installation
 
