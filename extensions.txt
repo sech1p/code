@@ -21,6 +21,7 @@ equinusocio.vsc-material-theme-icons
 esbenp.prettier-vscode
 formulahendry.auto-rename-tag
 github.vscode-pull-request-github
+golang.go
 gruntfuggly.todo-tree
 invillia.code-like-a-rainbow
 johnpapa.vscode-peacock
