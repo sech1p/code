@@ -24,6 +24,7 @@ github.vscode-pull-request-github
 golang.go
 gruntfuggly.todo-tree
 invillia.code-like-a-rainbow
+ivhernandez.vscode-plist
 johnpapa.vscode-peacock
 kruemelkatze.vscode-dashboard
 lamartire.git-indicators
