@@ -20,6 +20,7 @@ editorconfig.editorconfig
 equinusocio.vsc-material-theme-icons
 esbenp.prettier-vscode
 formulahendry.auto-rename-tag
+foxundermoon.shell-format
 github.vscode-pull-request-github
 golang.go
 gruntfuggly.todo-tree
@@ -31,6 +32,7 @@ lamartire.git-indicators
 lannonbr.vscode-js-annotations
 leonardssh.vscord
 lokalise.i18n-ally
+mads-hartmann.bash-ide-vscode
 mesonbuild.mesonbuild
 mkloubert.vscode-kanban
 moozzyk.arduino
@@ -53,9 +55,11 @@ pixelbyte-studios.pixelbyte-love2d
 pnp.polacode
 redhat.vscode-yaml
 riussi.code-stats-vscode
+rogalmic.bash-debug
 shan.code-settings-sync
 sumneko.lua
 tabnine.tabnine-vscode
+timonwong.shellcheck
 tonybaloney.vscode-pets
 usernamehw.errorlens
 wakatime.vscode-wakatime
