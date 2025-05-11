@@ -40,6 +40,7 @@ mrmomo.meson-build
 ms-python.debugpy
 ms-python.python
 ms-python.vscode-pylance
+ms-vscode.cpptools-extension-pack
 ms-vscode-remote.remote-containers
 ms-vscode-remote.remote-ssh
 ms-vscode-remote.remote-ssh-edit
