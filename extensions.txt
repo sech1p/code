@@ -67,6 +67,7 @@ wakatime.vscode-wakatime
 wallabyjs.wallaby-vscode
 wayou.vscode-todo-highlight
 wilsonpilon.msxbasic
+vshaxe.haxe-extension-pack
 xdebug.php-debug
 xdebug.php-pack
 yandeu.five-server
