@@ -68,6 +68,7 @@ wallabyjs.wallaby-vscode
 wayou.vscode-todo-highlight
 wilsonpilon.msxbasic
 vshaxe.haxe-extension-pack
+vuhrmeister.vscode-meteor
 xdebug.php-debug
 xdebug.php-pack
 yandeu.five-server
