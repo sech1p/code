@@ -1,0 +1,11 @@
+{
+	"Material Design Typeface": {
+		"prefix": "md-typeface",
+		"body": [
+			":root {",
+			"    --md-ref-typeface-plain: '{$1:Font name}', system-ui, -apple-system;",
+			"}"
+		],
+		"description": "Simple snippet to change typeface in Material UI 3 library"
+	}
+}

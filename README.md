@@ -37,6 +37,27 @@ PS C:\> .\install.ps1
 
 For `settings.json` installation, just open settings file from Command Palette in VS Code and copy-paste my file.
 
+## 🗒️ Snippets
+
+Snippets are useful thing, letting you type part of code with a shortcut.
+
+For example:
+
+```ts
+snippet-name... // Start typing, you can press Enter earlier
+
+/**
+ * This comment is a part of snippet
+ */
+```
+
+Where `This comment` is a part of file with snippet.
+
+Currently I have 2 snippets:
+
+- Material UI 3 Typeface - fragment of CSS code, after replacing `Font name` to yours font it's replaces weird font provided by Material UI 3 before (something ugly like Times New Roman) defining it. For example in buttons, textfields, etc.
+- JSDoc (Apache License 2.0) - I use this fragment of code (comments) in bigger projects. It's contains license preambule and JSDoc details of file in this project.
+
 ## ❓ FAQ
 
 **Q:** Why are you need a lot of extensions?

@@ -1,0 +1,33 @@
+{
+	"JSDoc": {
+		"prefix": "filedoc",
+		"body": [
+			"/**",
+			"  * This code is a part of ${1:Project name}.",
+			"  * Licensed under the Apache License, Version 2.0 (the \"License\");",
+			"  * you may not use this file except in compliance with the License.",
+			"  * You may obtain a copy of the License at",
+			"  *",
+			"  *     http://www.apache.org/licenses/LICENSE-2.0",
+			"  *",
+			"  * Unless required by applicable law or agreed to in writing, software",
+			"  * distributed under the License is distributed on an \"AS IS\" BASIS,",
+			"  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.",
+			"  * See the License for the specific language governing permissions and",
+			"  * limitations under the License.",
+			"  */",
+			"",
+			"/**",
+			"  * @file ${2:Short file overview}",
+			"  * @description ${3:File detailed description}",
+			"  * @author ${4:Name of file author}",
+			"  * @version ${5:Project version}",
+			"  * @since ${6:Project version since this file is created}",
+			"  * @createdAt ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}",
+			"  * @lastModified ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}",
+			"  * @license ${7:License of file project}",
+			"  */"
+		],
+		"description": "JSDoc file header template"
+	}
+}
